@@ -81,7 +81,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(/OIP-removebg-preview.png);
+    background-image: url(OIP-removebg-preview.png);
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -94,7 +94,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url(/R-removebg-preview.png);
+    background-image: url(R-removebg-preview.png);
 }
 
 ul li span{
@@ -191,7 +191,7 @@ ul li span:hover{
         height: 28px;
         width: 28px;
         border-radius: 50%;
-        background-image: url(/OIP-removebg-preview.png);
+        background-image: url(OIP-removebg-preview.png);
         background-size: cover;
         background-position: center;
         top: 12px;
@@ -204,7 +204,7 @@ ul li span:hover{
     }
     
     ul li.checked::before{
-        background-image: url(/R-removebg-preview.png);
+        background-image: url(R-removebg-preview.png);
     }
     
     ul li span{
@@ -301,7 +301,7 @@ ul li span:hover{
         height: 28px;
         width: 28px;
         border-radius: 50%;
-        background-image: url(/OIP-removebg-preview.png);
+        background-image: url(OIP-removebg-preview.png);
         background-size: cover;
         background-position: center;
         top: 12px;
@@ -314,7 +314,7 @@ ul li span:hover{
     }
     
     ul li.checked::before{
-        background-image: url(/R-removebg-preview.png);
+        background-image: url(R-removebg-preview.png);
     }
     
     ul li span{
